@@ -10,7 +10,7 @@ These are some of the IPython Notebooks that I've been working on, and follow-up
 - [x] Image classification
 - [x] Introduction to RNN's
 - [x] Introduction to Tensorflow
-- [ ] Introduction to TFLearn
+- [x] Introduction to TFLearn
 - [x] Language translation
 - [ ] Reinforcment learning
 - [ ] Sentiment network
