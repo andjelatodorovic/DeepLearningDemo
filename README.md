@@ -16,7 +16,7 @@ These are some of the IPython Notebooks that I've been working on, and follow-up
 - [ ] Sentiment network
 - [x] Sentiment RNN's
 - [x] Seq2Seq
-- [ ] Tensorboard
+- [x] Tensorboard
 - [x] Transfer learning
 - [x] TV Script Generation
 - [x] Weight initialization
