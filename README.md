@@ -12,7 +12,7 @@ These are some of the IPython Notebooks that I've been working on, and follow-up
 - [x] Introduction to Tensorflow
 - [x] Introduction to TFLearn
 - [x] Language translation
-- [ ] Reinforcment learning
+- [x] Reinforcment learning
 - [x] Sentiment network
 - [x] Sentiment RNN's
 - [x] Seq2Seq
